@@ -1,0 +1,23 @@
+{
+  "name": "da-p3-task1",
+  "version": "1.0.0",
+  "description": "doge capital P3 task 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavQ/DA-P3-Task1.git"
+  },
+  "author": "guzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavQ/DA-P3-Task1/issues"
+  },
+  "homepage": "https://github.com/gustavQ/DA-P3-Task1#readme",
+  "dependencies": {
+    "@solana/spl-token": "^0.3.5",
+    "@solana/web3.js": "^1.66.2"
+  }
+}
